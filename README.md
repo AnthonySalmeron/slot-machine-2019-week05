@@ -1,4 +1,5 @@
 # 🎰 Week05 Bootcamp2019 Project: Slot Machine
+Hosted here: https://ecstatic-yalow-db842d.netlify.com/
 
 ### Goal: Build a Simple Slot Machine
 
