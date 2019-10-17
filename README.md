@@ -4,6 +4,8 @@
 
 Build a simple slot machine with minimum 5 items per reel and 3 reels - user should be able to bet min or max and have their total update
 
+![item select]
+
 ### How to submit your code for review:
 
 - Fork and clone this repo
